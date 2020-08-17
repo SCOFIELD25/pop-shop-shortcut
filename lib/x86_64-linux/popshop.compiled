@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1594078105"/>
+  <Params Value=" -MObjFPC -Scghi -Cg -O1 -g -gl -l -vewnhibq &quot;-Fi/home/lucas/Documents/Lazarus Projects/Kill Pop Shop/lib/x86_64-linux&quot; &quot;-Fu/home/lucas/Documents/Lazarus Projects/Kill Pop Shop/&quot; &quot;-FU/home/lucas/Documents/Lazarus Projects/Kill Pop Shop/lib/x86_64-linux/&quot; &quot;-FE/home/lucas/Documents/Lazarus Projects/Kill Pop Shop/&quot; &quot;-o/home/lucas/Documents/Lazarus Projects/Kill Pop Shop/popshop&quot; popshop.pas"/>
+</CONFIG>
